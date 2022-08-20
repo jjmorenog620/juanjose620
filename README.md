@@ -3,8 +3,11 @@
 <h3 align="center">Machine Learning Enthusiast from Colombia</h3>
 <img align="right" alt="Coding" width="400" src="https://forum.huawei.com/enterprise/es/data/attachment/forum/202203/10/143244cvcrllt5qrhjoygj.gif">
 
+- 🔭 I’m currently working on **Cervical Spine Fracture Detection ML Model**
 
 - 🌱 I’m currently learning **AWS and SQL**
+
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **huanhosemoreno@gmail.com**
 

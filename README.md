@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)]
+![MasterHead](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)
 <h1 align="center">Hi 👋, I'm Juan Jose Moreno</h1>
 <h3 align="center">Machine Learning Enthusiast from Colombia</h3>
 <img align="right" alt="Coding" width="400" src="https://forum.huawei.com/enterprise/es/data/attachment/forum/202203/10/143244cvcrllt5qrhjoygj.gif">
